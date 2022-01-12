@@ -24,9 +24,9 @@ namespace MySQL.API.IntegrationTests.Base
         {
             var applicationBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
             var identityBuilder = new DbContextOptionsBuilder<IdentityDbContext>();
-            ApplicationConnString = $"Server=localhost;Port=3306;Database={ApplicationDbName};Userid=root;Password=root123;";
-                    IdentityConnString = $"Server=localhost;Port=3306;Database={IdentityDbName};Userid=root;Password=root123;";
-                    HealthCheckConnString = $"Server=localhost=3306;Database={HealthCheckDbName};Userid=root;Password=root123;";
+            ApplicationConnString = $"Server=localhost;Port=3309;Database={ApplicationDbName};Userid=root;Password=root;";
+                    IdentityConnString = $"Server=localhost;Port=3309;Database={IdentityDbName};Userid=root;Password=root;";
+                    HealthCheckConnString = $"Server=localhost=3309;Database={HealthCheckDbName};Userid=root;Password=root;";
                     applicationBuilder.UseMySql(ApplicationConnString, new MySqlServerVersion(new Version(8, 0, 11)));
                     identityBuilder.UseMySql(IdentityConnString, new MySqlServerVersion(new Version(8, 0, 11)));
             _applicationDbContext = new ApplicationDbContext(applicationBuilder.Options);
