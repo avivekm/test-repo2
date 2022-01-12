@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace MySQL.Persistence
 {
+//test comment
     [ExcludeFromCodeCoverage]
     public class ApplicationDbContext:DbContext
     {
