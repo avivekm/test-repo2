@@ -1,1 +1,1 @@
-C:\Users\user\Desktop\demo\6.0\MySQL\.sonarqube\out\2
+C:\Users\user\Desktop\netcore6\MySQL\.sonarqube\out\2

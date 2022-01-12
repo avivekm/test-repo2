@@ -1,9 +1,9 @@
-﻿C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Fakes\FakeSignInManager.cs
-C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Fakes\FakeUserManager.cs
-C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Mocks\SignInManagerMocks.cs
-C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Mocks\UserManagerMocks.cs
-C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Seed\UserCreatorTests.cs
-C:\Users\user\Desktop\demo\6.0\MySQL\test\MySQL.Identity.UnitTests\Services\AuthenticationServiceTests.cs
+﻿C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Fakes\FakeSignInManager.cs
+C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Fakes\FakeUserManager.cs
+C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Mocks\SignInManagerMocks.cs
+C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Mocks\UserManagerMocks.cs
+C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Seed\UserCreatorTests.cs
+C:\Users\user\Desktop\netcore6\MySQL\test\MySQL.Identity.UnitTests\Services\AuthenticationServiceTests.cs
 C:\Users\user\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\user\.nuget\packages\microsoft.testplatform.testhost\17.1.0-preview-20211130-02\build\netcoreapp2.1\x64\testhost.exe
 C:\Users\user\.nuget\packages\microsoft.testplatform.testhost\17.1.0-preview-20211130-02\build\netcoreapp2.1\x64\testhost.dll
