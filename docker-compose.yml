@@ -1,16 +1,15 @@
 ﻿version: "3.7"
 
 networks:
-  clean-network:
-  
+  clean-network:  
 services:
-
-
   mysql:
     image: mysql
     environment:
       MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: userpass
     ports:
-      - '3306:3306'
+      - '3305:3306'
     networks:
       - clean-network
