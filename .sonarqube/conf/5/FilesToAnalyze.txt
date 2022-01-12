@@ -1,0 +1,10 @@
+﻿C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Configurations\RoleConfiguration.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\IdentityDbContext.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\IdentityServiceExtensions.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Migrations\MySQL\20220105104315_InitialCreateMy.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Migrations\MySQL\20220105104315_InitialCreateMy.Designer.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Migrations\MySQL\IdentityDbContextModelSnapshot.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Models\ApplicationUser.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Models\RefreshToken.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Seed\CreateFirstUser.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Identity\Services\AuthenticationService.cs

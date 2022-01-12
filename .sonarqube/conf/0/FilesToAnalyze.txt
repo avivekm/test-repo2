@@ -1,0 +1,5 @@
+﻿C:\Users\user\Desktop\demo\6.0\MySQL\src\Core\MySQL.Domain\Common\AuditableEntity.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Core\MySQL.Domain\Entities\Category.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Core\MySQL.Domain\Entities\Event.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Core\MySQL.Domain\Entities\Message.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Core\MySQL.Domain\Entities\Order.cs

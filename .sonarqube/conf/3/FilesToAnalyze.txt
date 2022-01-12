@@ -1,0 +1,4 @@
+﻿C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Infrastructure\Cache\MemoryCacheService.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Infrastructure\FileExport\CsvExporter.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Infrastructure\InfrastructureServiceRegistration.cs
+C:\Users\user\Desktop\demo\6.0\MySQL\src\Infrastructure\MySQL.Infrastructure\Mail\EmailService.cs
