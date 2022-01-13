@@ -11,6 +11,7 @@ namespace MySQL.API.IntegrationTests.Base
     [Collection("Database")]
     public class CustomWebApplicationFactory : WebApplicationFactory<Program>
     {
+        //test comment
         private readonly DbFixture _dbFixture;
 
         public CustomWebApplicationFactory(DbFixture dbFixture)
