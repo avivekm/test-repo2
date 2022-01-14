@@ -1,8 +1,10 @@
-﻿D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Cache\MemoryCacheServiceTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\FileExport\CsvExporterTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mail\EmailServiceTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mocks\MemoryCacheMocks.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mocks\SendGridClientMocks.cs
+﻿D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\AccountControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\CategoryControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\EventsControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\OrderControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v2\CategoryControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Mocks\AuthenticationServiceMocks.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Mocks\MediatorMocks.cs
 C:\Users\maury\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\maury\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
 C:\Users\maury\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
