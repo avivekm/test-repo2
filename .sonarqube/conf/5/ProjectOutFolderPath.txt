@@ -1,1 +1,0 @@
-D:\cicdRepo\.sonarqube\out\5

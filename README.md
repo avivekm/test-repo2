@@ -3,8 +3,8 @@
 This is a solution template for creating a Single Page App (SPA) with Angular and ASP.NET Core following the principles of Clean Architecture. 
 ## Technologies
 
-* ASP.NET Core 6.0
-* [Entity Framework Core 6.0](https://docs.microsoft.com/en-us/ef/core/)
+* ASP.NET Core 3.1
+* [Entity Framework Core 3.1](https://docs.microsoft.com/en-us/ef/core/)
 * [MediatR](https://www.programmingwithwolfgang.com/mediator-pattern-in-asp-net-core-3-1/)
 * [AutoMapper](https://automapper.org/)
 * [FluentValidation](https://fluentvalidation.net/)
@@ -53,7 +53,7 @@ This layer contains classes for accessing external resources such as file system
 
 ### WebUI
 
-This layer is a single page application based on  Angular/React and ASP.NET Core 6.0. This layer depends on both the Application and Infrastructure layers, however, the dependency on Infrastructure is only to support dependency injection. Therefore only *Startup.cs* should reference Infrastructure.
+This layer is a single page application based on  Angular/React and ASP.NET Core 3.1. This layer depends on both the Application and Infrastructure layers, however, the dependency on Infrastructure is only to support dependency injection. Therefore only *Startup.cs* should reference Infrastructure.
 
 
 ## License
