@@ -22,8 +22,6 @@ jobs:
         with:
             dotnet-version: '6.0'
             include-prerelease: True
-      - name: SonarCloudPrepare@4.11.0
-        displayName: 'Sonar - Prepare Analysis'
       - name: Cache SonarCloud packages
         uses: actions/cache@v1
         with:
