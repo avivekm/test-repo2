@@ -10,6 +10,7 @@ using Xunit;
 
 namespace MySQL.API.UnitTests.Controllers.v1
 {
+    //comment
     public class AccountControllerTests
     {
         private readonly Mock<IAuthenticationService> _mockAuthenticationService;
