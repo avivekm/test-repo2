@@ -88,7 +88,8 @@ jobs:
           path: .\.sonar\scanner
           key: ${{ runner.os }}-sonar-scanner
           restore-keys: ${{ runner.os }}-sonar-scanner
-        extraProperties: sonar.cs.opencover.reportsPaths=$(Agent.TempDirectory)\**\*.opencover.xml
+        extraProperties: |
+          sonar.cs.opencover.reportsPaths=$(Agent.TempDirectory)\**\*.opencover.xml
       - name: Install SonarCloud scanner
         if: steps.cache-sonar-scanner.outputs.cache-hit != 'true'
         shell: powershell
