@@ -2,8 +2,8 @@
 <AnalysisInput>
   <Settings>
     <Setting>
-      <Key>sonar.cs.opencover.reportsPaths</Key>
-      <Value>test/MySQL.API.UnitTests/coverage.opencover.xml</Value>
+      <Key>sonar.cs.opencover.reportsPath</Key>
+      <Value>coverage.opencover.xml</Value>
     </Setting>
     <Setting>
       <Key>sonar.cs.ignoreHeaderComments</Key>

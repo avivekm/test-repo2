@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>D:\cicdRepo\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>D:\cicdRepo\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>D:\cicdRepo\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>D:\cicdRepo</SonarScannerWorkingDirectory>
+  <SonarConfigDir>D:\cicdRepo\test\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>D:\cicdRepo\test\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>D:\cicdRepo\test\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>D:\cicdRepo\test</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>9.2.4.50792</SonarQubeVersion>
@@ -114,13 +114,12 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
-    <Property Name="sonar.cs.opencover.reportsPaths">test/MySQL.API.UnitTests/coverage.opencover.xml</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>D:\cicdRepo\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\cicdRepo\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\cicdRepo\test\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\cicdRepo\test\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.32.0.39516" StaticResourceName="SonarAnalyzer-8.32.0.39516.zip">
           <AssemblyPaths>
@@ -141,13 +140,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\cicdRepo\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>D:\cicdRepo\test\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>D:\cicdRepo\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\cicdRepo\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\cicdRepo\test\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\cicdRepo\test\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.32.0.39516" StaticResourceName="SonarAnalyzer-8.32.0.39516.zip">
           <AssemblyPaths>
@@ -168,7 +167,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\cicdRepo\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>D:\cicdRepo\test\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

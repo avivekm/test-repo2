@@ -1,8 +1,10 @@
-﻿D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Cache\MemoryCacheServiceTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\FileExport\CsvExporterTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mail\EmailServiceTests.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mocks\MemoryCacheMocks.cs
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\Mocks\SendGridClientMocks.cs
+﻿D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\AccountControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\CategoryControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\EventsControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v1\OrderControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Controllers\v2\CategoryControllerTests.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Mocks\AuthenticationServiceMocks.cs
+D:\cicdRepo\test\MySQL.API.UnitTests\Mocks\MediatorMocks.cs
 C:\Users\maury\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\maury\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
 C:\Users\maury\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
@@ -10,6 +12,7 @@ C:\Users\maury\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\net
 C:\Users\maury\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\maury\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\maury\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\coverage.opencover.xml
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\TestResults\maury_MSI_2022-01-14_13_20_49.trx
-D:\cicdRepo\test\MySQL.Infrastructure.UnitTests\TestResults\maury_MSI_2022-01-14_13_30_52.trx
+D:\cicdRepo\test\MySQL.API.UnitTests\coverage.json
+D:\cicdRepo\test\MySQL.API.UnitTests\coverage.opencover.xml
+D:\cicdRepo\test\MySQL.API.UnitTests\TestResults\maury_MSI_2022-01-14_13_20_59.trx
+D:\cicdRepo\test\MySQL.API.UnitTests\TestResults\maury_MSI_2022-01-14_13_31_07.trx

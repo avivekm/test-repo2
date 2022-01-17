@@ -1,0 +1,5 @@
+﻿D:\cicdRepo\src\Core\MySQL.Domain\Common\AuditableEntity.cs
+D:\cicdRepo\src\Core\MySQL.Domain\Entities\Category.cs
+D:\cicdRepo\src\Core\MySQL.Domain\Entities\Event.cs
+D:\cicdRepo\src\Core\MySQL.Domain\Entities\Message.cs
+D:\cicdRepo\src\Core\MySQL.Domain\Entities\Order.cs

@@ -1,0 +1,4 @@
+﻿D:\cicdRepo\src\Infrastructure\MySQL.Infrastructure\Cache\MemoryCacheService.cs
+D:\cicdRepo\src\Infrastructure\MySQL.Infrastructure\FileExport\CsvExporter.cs
+D:\cicdRepo\src\Infrastructure\MySQL.Infrastructure\InfrastructureServiceRegistration.cs
+D:\cicdRepo\src\Infrastructure\MySQL.Infrastructure\Mail\EmailService.cs
